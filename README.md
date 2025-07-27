@@ -1,13 +1,15 @@
 ## Chat-App Project
 
-This is a simple chat like twitter project using Laravel, for the log-in credentials use:
+This is a simple chat (like Twitter) project built using Laravel.
 
-User 1
-name: John Doe
-email: johndoe@example.com
-password: password123
+### 🔐 Log-in Credentials
 
-User 2
-name: Karl
-email: karl@example.com
-password: password123
+**User 1**  
+- **Name:** John Doe  
+- **Email:** `johndoe@example.com`  
+- **Password:** `password123`
+
+**User 2**  
+- **Name:** Karl  
+- **Email:** `karl@example.com`  
+- **Password:** `password123`
